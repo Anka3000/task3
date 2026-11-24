@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 2fc694d6-0eca-4987-8531-0f9ba663f8a2
+
+localResources:
+  collections:
+    - ../JWT/JWT-attacks.postman_collection.json
